@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,8 +21,8 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-0. List
-9. Blah
+1. List
+1. Blah
 
 **Bold** and _Italic_ and `Code` text
 
