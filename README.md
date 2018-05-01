@@ -6,7 +6,7 @@ Please see the groups [here](https://www.google.com/search?{google:acceptedSugge
 
 **Players**
 
-|Player Number|Player Name|
+|**Player Number**|**Player Name**|
 |-------------|-------------|
 |1|Anshu|
 |2|Swaroop|
