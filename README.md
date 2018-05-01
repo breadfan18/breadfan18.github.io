@@ -6,12 +6,13 @@ Please see the groups [here](https://www.google.com/search?{google:acceptedSugge
 
 **Players**
 
-| Player Number   | Player Name |
-| ------------- | ------------- |
-| 1  | Anshu |
-| 2  | Swaroop  |
-| 3  | Paras |
-| 4  | Sanju  |
+|Player Number|Player Name|
+|-------------|-------------|
+|1|Anshu|
+|2|Swaroop|
+|3|Paras|
+|4|Sanju |
+|5|Shobhit|
 
 You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
