@@ -1,5 +1,7 @@
 ﻿## Welcome to the Cincinnati World Cup 2018 Bracket Challenge
  
+![2018-russia-world-cup](https://user-images.githubusercontent.com/38883585/39485013-88f0cc42-4d45-11e8-9def-5795b87ae294.jpg)
+ 
 Please see the groups [here](https://www.google.com/search?{google:acceptedSuggestion}oq=world+cup+groups&sourceid=chrome&ie=UTF-8&q=world+cup+groups#sie=lg;/m/06qjc4;2;/m/030q7;st;fp;1)
 
 **Players**
@@ -12,8 +14,6 @@ Please see the groups [here](https://www.google.com/search?{google:acceptedSugge
 | 4  | Sanju  |
 
 You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-![2018-russia-world-cup](https://user-images.githubusercontent.com/38883585/39485013-88f0cc42-4d45-11e8-9def-5795b87ae294.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
