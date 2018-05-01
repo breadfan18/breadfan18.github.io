@@ -2,10 +2,14 @@
  
 Please see the groups [here](https://www.google.com/search?{google:acceptedSuggestion}oq=world+cup+groups&sourceid=chrome&ie=UTF-8&q=world+cup+groups#sie=lg;/m/06qjc4;2;/m/030q7;st;fp;1)
 
-| Flayer Name   | Player Number |
+**Players**
+
+| Player Number   | Player Name |
 | ------------- | ------------- |
-| Anshu  | 1 |
-| Swaroop  | 2  |
+| 1  | Anshu |
+| 2  | Swaroop  |
+| 3  | Paras |
+| 4  | Sanju  |
 
 You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
