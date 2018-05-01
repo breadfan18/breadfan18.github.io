@@ -1,8 +1,9 @@
 ﻿## Welcome to the Cincinnati World Cup 2018 Bracket Challenge
  
-![2018-russia-world-cup](https://user-images.githubusercontent.com/38883585/39485013-88f0cc42-4d45-11e8-9def-5795b87ae294.jpg)
+![2018-russia-world-cup](https://user-images.githubusercontent.com/38883585/39490598-639a5c58-4d57-11e8-9c1e-9b266432149a.jpg)
  
-Please see the groups [here](https://www.google.com/search?{google:acceptedSuggestion}oq=world+cup+groups&sourceid=chrome&ie=UTF-8&q=world+cup+groups#sie=lg;/m/06qjc4;2;/m/030q7;st;fp;1)
+**Groups**
+![world-cup-2018-groups](https://user-images.githubusercontent.com/38883585/39490656-8d3c31a8-4d57-11e8-80be-60e0859f435b.png)
 
 **Players**
 
