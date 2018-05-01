@@ -1,4 +1,6 @@
-﻿## Welcome to GitHub Pages
+﻿## Welcome to the Cincinnati World Cup 2018 Bracket Challenge
+ 
+Please see the [Group Stages](https://www.google.com/search?{google:acceptedSuggestion}oq=world+cup+groups&sourceid=chrome&ie=UTF-8&q=world+cup+groups#sie=lg;/m/06qjc4;2;/m/030q7;st;fp;1)
 
 You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
