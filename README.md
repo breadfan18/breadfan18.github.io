@@ -11,7 +11,7 @@
 |-------------|-------------|
 |1|Anshu|
 |2|Swaroop|
-|3|Paras|
+|3|Parasey|
 |4|Sanju |
 |5|Shobhit|
 |6|Bibhusan|
