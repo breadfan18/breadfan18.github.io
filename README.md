@@ -16,7 +16,7 @@
 |5|Shobhit|
 |6|Bibhusan|
 |7|Ujjain bhai|
-|8|Rabinn bhai|
+|8|Rabin bhai|
 
 
 
