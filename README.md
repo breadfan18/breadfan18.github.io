@@ -14,10 +14,9 @@
 |3|Parasey|
 |4|Sanju |
 |5|Shobhit|
-|6|Bibhusan|
 |7|Ujjain bhai|
 |8|Prasanna|
-|9|Rabinnnn|
+|9|Rabin|
 
 
 
