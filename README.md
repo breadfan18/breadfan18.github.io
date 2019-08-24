@@ -17,7 +17,7 @@
 |7|Ujjain bhai|
 |8|Prasanna|
 |9|Pratikshya|
-|10|Rabinnn|
+|10|Rabin|
 
 
 
