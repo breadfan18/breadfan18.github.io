@@ -9,7 +9,7 @@
 
 |**Player Number**|**Player Name**|
 |-------------|-------------|
-|1|Anshu|
+|1|Anshaaaau|
 |2|Swaroop|
 |3|Parasey|
 |4|Sanju |
