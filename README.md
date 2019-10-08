@@ -18,13 +18,6 @@
 |8|Prasanna|
 |9|Pratikshya|
 |10|Rabin bhai|
-|11|Vkey bhaiooo|
-
-
-
-
-
-
 
 
 You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
