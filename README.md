@@ -14,7 +14,7 @@
 |3|Parasey|
 |4|Sanju |
 |5|Shobhit|
-|6|Tripti|
+|6|Tripts|
 
 
 
